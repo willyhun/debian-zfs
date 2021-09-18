@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: willyhun.github.io/zfs-debian
+Label: willyhun.github.io/zfs-debian
+Codename: zfs-backport
+Date: Sat, 18 Sep 2021 21:34:49 UTC
+Architectures: amd64
+Components: main
+Description: ZFS debian repo
+MD5Sum:
+ d6fe2021f009db3e6e2c7d1beb7c9042 29036 main/binary-amd64/Packages
+ a2908f3b33fa8e7846863426ae747ce0 8099 main/binary-amd64/Packages.gz
+ 47a3ff68304ba185867fcfd2836bc8b4 140 main/binary-amd64/Release
+SHA1:
+ 7ee41b2bcda826b278faf01ce7e2b99f27317193 29036 main/binary-amd64/Packages
+ a67b393e8007bf47862ea214826714cbb9bae87f 8099 main/binary-amd64/Packages.gz
+ 2956f182800db3c68027813bb224c472dc88e2ac 140 main/binary-amd64/Release
+SHA256:
+ d2b91a091c04281e93fe6d96bde7d7b05070a55aab9524289dc4b99a879834ad 29036 main/binary-amd64/Packages
+ 8538c02d891195d31a9252f2d4dcc458a99f1c6f676c7b858adf66295490ae1a 8099 main/binary-amd64/Packages.gz
+ ee94e7f7d910c7030055baac0bb71f944da4e556e28fbee450f798d5cb867339 140 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEDGWZJD47G2ebYjRygEg7q0ERqVcFAmFGW4wACgkQgEg7q0ER
+qVcy2A/+NC6qQp3Y3dBDh3ww7p+Ak2lFAj3mgx0b3sQRc6xbZYpbwZfQkONMDZeq
+Gnm7eS8gvUYKeAE5jh8aI1XH9N+rYHqXDepNP3/eLQ51uE1ZBC5L2A3ipq2iMuzv
+7vrROpEDHxn7WweBYNVtvhx7P4RwVO+hRK1DmcpIB+rkxamgJguU+bCB5MLKxWuV
+qjJdcOD735e/Zd+WdWFjH/yyG+6cuPZWs5Kclj9vxO/z7p0NrnznaT2LFTg0RgvK
+YWS8Rw11UFVDZnyVD7Qzmd7rT2vHdqFEcJfgGtpM7fVyCZatma61wBYEWvJh6CsH
+oDnKJPfAiuG5giOvDrXnOP+bWvEGictIfTA16z8RDYPPzB/BOv+vcFov2g3S67CP
+D05Afrpt1Id44a1QMvtdqQ6UWbzcmQtHnKzwnqt0Ncso4F/nmlsYdXy7F/6XuX2V
+63ufyXvwj+Y95N9OMuLgTufu9PAfywMAkAJaaLaui7qruoOf4RKS6iubcxgyaR4D
+QTOp2ldf615Y/UPAQ6yON3fwDGFi34DkDXyNKxuzKPBQ+oK7JC8Yr/vNsdXHZJgZ
+Aqj3V6eCBlR2Z2P9ZA8x41aMg2dbd/LLWJaMU1jBQc2azFp8wr5/RGB9zwGzcoTw
+QRb0wZhyC+o1/SIwdvDYjzYVibS70BGwsQaaYxZu0rsLhpj/SlA=
+=zW1f
+-----END PGP SIGNATURE-----

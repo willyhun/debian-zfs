@@ -1,6 +1,6 @@
 Origin: willyhun.github.io/zfs-debian
 Label: willyhun.github.io/zfs-debian
-Codename: buster
+Codename: zfs-backport
 Architectures: amd64
 Components: main
 Description: ZFS debian repo
