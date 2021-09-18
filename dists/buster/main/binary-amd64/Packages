@@ -1,0 +1,207 @@
+Package: libnvpair3
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 123
+Depends: libc6 (>= 2.3.4)
+Priority: extra
+Section: alien
+Filename: pool/main/libn/libnvpair3/libnvpair3_2.1.1-1_amd64.deb
+Size: 30100
+SHA256: ce471c53f165bdbd349aec95099c0ec3df412b2de52c46690a7655e1335693a9
+SHA1: 4e8552cda3f492e07284f82cadd71aced0984f19
+MD5sum: d883cd3861a08bdc4ef59c39b8f978c6
+Description: Solaris name-value library for Linux
+ This package contains routines for packing and unpacking name-value
+ pairs.  This functionality is used to portably transport data across
+ process boundaries, between kernel and user space, and can be used
+ to write self describing data structures on disk.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: libuutil3
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 101
+Depends: libc6 (>= 2.17)
+Priority: extra
+Section: alien
+Filename: pool/main/libu/libuutil3/libuutil3_2.1.1-1_amd64.deb
+Size: 25092
+SHA256: 0a47294bcef5f998d7e1e9815f07c9e25b448eae8c588c9e405af9031c9d1f30
+SHA1: 26857c5559870ec0555ce18ad29825d81fe6d971
+MD5sum: 8e4442e5c475025821d6ed96eaef29b7
+Description: Solaris userland utility library for Linux
+ This library provides a variety of compatibility functions for OpenZFS:
+  * libspl: The Solaris Porting Layer userland library, which provides APIs
+    that make it possible to run Solaris user code in a Linux environment
+    with relatively minimal modification.
+  * libavl: The Adelson-Velskii Landis balanced binary tree manipulation
+    library.
+  * libefi: The Extensible Firmware Interface library for GUID disk
+    partitioning.
+  * libshare: NFS, SMB, and iSCSI service integration for ZFS.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: libzfs5
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 630
+Depends: libblkid1 (>= 2.16), libc6 (>= 2.28), libssl1.1 (>= 1.1.0), libudev1 (>= 183), libuuid1 (>= 2.16), zlib1g (>= 1:1.1.4)
+Priority: extra
+Section: alien
+Filename: pool/main/libz/libzfs5/libzfs5_2.1.1-1_amd64.deb
+Size: 208728
+SHA256: fb12f6c4675f4877a7ab2b2ffb5e412c5d39c541e59616c8bf9673dca4643950
+SHA1: e6d5b0021c4a0ba5cb03f1e17a86c5f563a639a0
+MD5sum: ca7462608ca4fe08d327658659b0ba17
+Description: Native ZFS filesystem library for Linux
+ This package provides support for managing ZFS filesystems
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: libzfs5-devel
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 2903
+Priority: extra
+Section: alien
+Filename: pool/main/libz/libzfs5-devel/libzfs5-devel_2.1.1-1_amd64.deb
+Size: 311432
+SHA256: a41b1bf0c91eba986a1d230d8d87c86adccca58f0e9d8abe090236204e43e781
+SHA1: ded20feca9a414ed18f3c8f399c067a3e69b8b6e
+MD5sum: c314fb81e2d09465251c9adfc17ff7ac
+Description: Development headers
+ This package contains the header files needed for building additional
+ applications against the ZFS libraries.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: libzpool5
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 4219
+Depends: libc6 (>= 2.28), libzfs4linux (>= 2.0), zlib1g (>= 1:1.1.4)
+Priority: extra
+Section: alien
+Filename: pool/main/libz/libzpool5/libzpool5_2.1.1-1_amd64.deb
+Size: 1255472
+SHA256: eb7a2987924b65100571f8f2a022a49bd994672f757e07968799d5e9f10fae6a
+SHA1: 88814933a644ba6fcf1f1b3bbc99623d41f332ed
+MD5sum: 1c0864902e0711d11c94832770e49f5a
+Description: Native ZFS pool library for Linux
+ This package contains the zpool library, which provides support
+ for managing zpools
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: python3-pyzfs
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 710
+Priority: extra
+Section: alien
+Filename: pool/main/p/python3-pyzfs/python3-pyzfs_2.1.1-1_amd64.deb
+Size: 99220
+SHA256: 916d820c586e1df4ec2a7da617f71aa04e15d64c17a22947c39817be18d7eabf
+SHA1: e251bc26ad258859b100ba13e29e072ad1d46e1d
+MD5sum: b6e05f36869ba8099d2b9b2bd22f4ca7
+Description: Python 3.7 wrapper for libzfs_core
+ This package provides a python wrapper for the libzfs_core C library.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: zfs
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 2058
+Priority: extra
+Section: alien
+Filename: pool/main/z/zfs/zfs_2.1.1-1_amd64.deb
+Size: 600392
+SHA256: 49e60077a078b9ea2df00b2a94df1df7cca3eb71d491f9fb3789e34aa1f44573
+SHA1: cbce957244f9ed7b3f725d05e43b4527ce8efa7e
+MD5sum: a2716579481634acf66b5bce0d0d6534
+Description: Commands to control the kernel modules and libraries
+ This package contains the core ZFS command line utilities.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: zfs-dkms
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 66071
+Priority: extra
+Section: alien
+Filename: pool/main/z/zfs-dkms/zfs-dkms_2.1.1-1_amd64.deb
+Size: 30256140
+SHA256: ec617eb51f3bbfc7ed67e9fc09941e8e7d17b22a32005802230aec52481878f1
+SHA1: 8dd0422e22b961a6457d756e4c479a07c42560c6
+MD5sum: b79b0a04f096b7a625673fb77b6f67c2
+Description: Kernel module(s) (dkms)
+ This package contains the dkms ZFS kernel modules.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: zfs-dracut
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 52
+Priority: extra
+Section: alien
+Filename: pool/main/z/zfs-dracut/zfs-dracut_2.1.1-1_amd64.deb
+Size: 15360
+SHA256: 8849787a8570bf2244ddc46999c0da54101f8f9832463b2e83ef1de4e1fb8048
+SHA1: 1ea950814ca1c5f2cfbd3fb2faa2dce2ec99ad61
+MD5sum: 51034caf1dc0faaaa67447bed7b6d014
+Description: Dracut module
+ This package contains a dracut module used to construct an initramfs
+ image which is ZFS aware.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: zfs-initramfs
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 54
+Priority: extra
+Section: alien
+Filename: pool/main/z/zfs-initramfs/zfs-initramfs_2.1.1-1_amd64.deb
+Size: 12636
+SHA256: 94c000915a889562dc5440c14d3e64d2e967c4d0749c54102afddb123e121984
+SHA1: ecd6956c2acd31a948589d0292effad6b6007bd2
+MD5sum: ba327da6ffee94bf12b73cf1b34dad56
+Description: Initramfs module
+ This package contains a initramfs module used to construct an initramfs
+ image which is ZFS aware.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: zfs-test
+Version: 2.1.1-1
+Architecture: amd64
+Maintainer: Willy <1319572+willyhun@users.noreply.github.com>
+Installed-Size: 32333
+Priority: extra
+Section: alien
+Filename: pool/main/z/zfs-test/zfs-test_2.1.1-1_amd64.deb
+Size: 26936436
+SHA256: e39fff268e9782bccbde2486e181926de2588872420291736c7b8429ee58dc54
+SHA1: 1991aaeac41a561390d00e9e8e8c196ae2ce7646
+MD5sum: 0342806dd14a95df5a19b22ac7cad77c
+Description: Test infrastructure
+ This package contains test infrastructure and support scripts for
+ validating the file system.
+ .
+ (Converted from a rpm package by alien version 8.95.)
+

@@ -1,0 +1,7 @@
+Origin: willyhun.github.io/zfs-debian
+Label: willyhun.github.io/zfs-debian
+Codename: buster
+Architectures: amd64
+Components: main
+Description: ZFS debian repo
+SignWith: 4111A957
